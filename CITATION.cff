@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: artio
+message: >-
+  Please cite this repository using the metadata from this file.
+type: software
+authors:
+  - given-names: Michael
+    family-names: Kaiser
+    email: michael.kaiser@students.unibe.ch
+    affiliation: University of Bern
+    orcid: 'https://orcid.org/0009-0004-7906-0678'
+repository-code: 'https://github.com/SEG-UNIBE/artio'
+url: >-
+  https://grafana.artio.inf.unibe.ch/public-dashboards/d68db6e7117d43338091f5e7c4f84c34
+abstract: >-
+  Component bundle for large-scale investigation of software
+  variability in Nostr.
+keywords:
+  - nostr
+  - variability
+  - network
+  - decentralize
+license: MIT
+version: 0.1.0
