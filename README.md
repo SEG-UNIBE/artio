@@ -21,9 +21,10 @@
 .
 <div align="center">
   <a href="https://github.com/SEG-UNIBE/artio/releases"><img src="https://img.shields.io/github/v/release/SEG-UNIBE/artio?include_prereleases" alt="Changelog" /></a>
-  <a href="https://doi.org/tbd"><img src="https://zenodo.org/badge/DOI/tbd.svg" alt="DOI" /></a>
+  <a href="https://doi.org/10.5281/zenodo.18849682"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18849682.svg" alt="DOI" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT" /></a>
 </div>
+
 
 </br>
 
