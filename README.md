@@ -19,7 +19,6 @@
 
 
 
-
 ## Introduction
 
 tbd
@@ -38,17 +37,36 @@ tbd
   <img width="80%" src="https://cdn.artio.inf.unibe.ch/logos/logo_relay_full.svg" alt="artio-relay logo" />
 </div>
 
+[![artio-relay](https://img.shields.io/badge/GitHub-artio%2D%2Drelay-181717?style=for-the-badge&logo=github)](https://github.com/SEG-UNIBE/artio-relay)
+
+
 ### artio-insight
 <div align="center">
   <img width="80%" src="https://cdn.artio.inf.unibe.ch/logos/logo_insights_full.svg" alt="artio-insight logo" />
 </div>
+
+[![artio-insight](https://img.shields.io/badge/GitHub-artio%2D%2Dinsight-181717?style=for-the-badge&logo=github)](https://github.com/SEG-UNIBE/artio-insight)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub release](https://img.shields.io/github/tag/SEG-UNIBE/artio-insight.svg?label=release)](https://github.com/SEG-UNIBE/artio-insight/releases)
+[![GitHub release date](https://img.shields.io/github/release-date/SEG-UNIBE/artio-insight.svg)](https://github.com/SEG-UNIBE/artio-insight/releases)
+
+
 
 ### artio-miner
 <div align="center">
   <img width="80%" src="https://cdn.artio.inf.unibe.ch/logos/logo_miner_full.svg" alt="artio-miner logo" />
 </div>
 
+[![artio-miner](https://img.shields.io/badge/GitHub-artio%2D%2Dminer-181717?style=for-the-badge&logo=github)](https://github.com/SEG-UNIBE/artio-miner)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub release](https://img.shields.io/github/tag/SEG-UNIBE/artio-miner.svg?label=release)](https://github.com/SEG-UNIBE/artio-miner/releases)
+[![GitHub release date](https://img.shields.io/github/release-date/SEG-UNIBE/artio-miner.svg)](https://github.com/SEG-UNIBE/artio-miner/releases)
+
 ### artio-orchestration
 <div align="center">
   <img width="80%" src="https://cdn.artio.inf.unibe.ch/logos/logo_orchestration_full.svg" alt="artio-orchestration logo" />
 </div>
+
+[![artio-orchestration](https://img.shields.io/badge/GitHub-artio%2D%2Dminer-181717?style=for-the-badge&logo=github)](https://github.com/SEG-UNIBE/artio-orchestration)
