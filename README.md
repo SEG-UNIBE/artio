@@ -88,4 +88,4 @@ In order to get information about this, please get in touch with us.
   <img width="80%" src="https://cdn.artio.inf.unibe.ch/logos/logo_orchestration_full.svg" alt="artio-orchestration logo" />
 </div>
 
-[![artio-orchestration](https://img.shields.io/badge/GitHub-artio%2D%2Dminer-181717?style=for-the-badge&logo=github)](https://github.com/SEG-UNIBE/artio-orchestration)
+[![artio-orchestration](https://img.shields.io/badge/GitHub-artio%2D%2Dorchestration-181717?style=for-the-badge&logo=github)](https://github.com/SEG-UNIBE/artio-orchestration)
